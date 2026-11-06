@@ -1,4 +1,6 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: Copyright (c) 2026 NVIDIA CORPORATION & AFFILIATES. All rights reserved.
+# SPDX-License-Identifier: Apache-2.0
 """Discover an H2 process' current CycloneDDS SPDP unicast peer.
 
 This is a passive, standard-library-only probe.  It joins the SPDP multicast
